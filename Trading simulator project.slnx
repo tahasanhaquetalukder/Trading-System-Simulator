@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Trading simulator project/Trading simulator project.vcxproj" Id="7715097d-4b58-40f3-a4d5-c0c28c4c089e" />
+</Solution>
