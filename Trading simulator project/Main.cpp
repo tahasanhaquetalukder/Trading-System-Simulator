@@ -6,8 +6,6 @@
 
 HWND hPriceLabel, hStatusLabel;
 double currentPrice = 150.75;
-
-// রঙের জন্য ব্রাশ (Brushes) তৈরি
 HBRUSH hDarkBackgroundBrush;
 HBRUSH hGreenBrush;
 HBRUSH hRedBrush;
