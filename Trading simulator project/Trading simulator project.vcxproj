@@ -139,11 +139,17 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="core_logic.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="GUI.cpp" />
+    <ClCompile Include="market.cpp" />
+    <ClCompile Include="Storage.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="core_logic.h" />
     <ClInclude Include="GUI.h" />
+    <ClInclude Include="market.h" />
+    <ClInclude Include="storage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
